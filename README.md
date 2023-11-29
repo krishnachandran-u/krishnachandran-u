@@ -1,5 +1,13 @@
 ![profile_7](https://raw.githubusercontent.com/krishnachandran-u/krishnachandran-u/main/profile_7.png)
+
+<div align = "center">
+  <img src = "https://img.shields.io/badge/SOFTWARE%20DEVELOPER-teal?style=for-the-badge"/>
+  <img src = "https://img.shields.io/badge/FRONTEND-teal?style=for-the-badge" />
+  <img src = "https://img.shields.io/badge/MACHINE%20LEARNING-teal?style=for-the-badge" />
+</div>
+
 <br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u" alt="krishnachandran-u" />
 </div>
