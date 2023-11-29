@@ -1,4 +1,5 @@
-![profile_1](https://raw.githubusercontent.com/krishnachandran-u/krishnachandran-u/main/profile_2.png)
+![profile_7](https://raw.githubusercontent.com/krishnachandran-u/krishnachandran-u/main/profile_7.png)
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u" alt="krishnachandran-u" />
 </div>
