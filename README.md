@@ -4,9 +4,11 @@
   <img src = "https://img.shields.io/badge/FRONTEND-teal?style=for-the-badge" />
   <img src = "https://img.shields.io/badge/MACHINE%20LEARNING-teal?style=for-the-badge" />
 </div>
-
 <br>
 
+# ![Static Badge](https://img.shields.io/badge/currently%20working%20on%20'textrade'-purple?style=for-the-badge)[ ↗](https://textrade.irfan.live/)
+
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u" alt="krishnachandran-u" />
 </div>
