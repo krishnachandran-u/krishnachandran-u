@@ -1,4 +1,4 @@
-![profile_7](https://i.ibb.co/b6sWBSG/profile-7.png)
+![profile_7](https://raw.githubusercontent.com/krishnachandran-u/krishnachandran-u/main/profile_7.png)
 <div align = "center">
   <img src = "https://img.shields.io/badge/SOFTWARE%20DEVELOPER-teal?style=for-the-badge"/>
   <img src = "https://img.shields.io/badge/FRONTEND-teal?style=for-the-badge" />
