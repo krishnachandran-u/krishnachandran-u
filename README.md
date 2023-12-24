@@ -1,6 +1,5 @@
 ![profile_7](https://cdn.jsdelivr.net/gh/krishnachandran-u/assets@main/readme/Frame%203.png)
 <br>
-<br>
 ![profession](https://cdn.jsdelivr.net/gh/krishnachandran-u/assets/readme/Frame_4.png)
 <!--
 <div align = "center">
