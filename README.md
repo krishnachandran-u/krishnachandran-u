@@ -1,5 +1,5 @@
 ![profile_7](https://cdn.jsdelivr.net/gh/krishnachandran-u/krishnachandran-u@main/assets/images/name.png)
-![profile_svg](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/main.svg)
+<img src = "https://krishnachandran-u.github.io/krishnachandran-u/assets/images/main.svg" alt = "mainsvg">
 <br>
 <!--
 <div align = "center">
