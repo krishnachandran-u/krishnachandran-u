@@ -7,9 +7,14 @@
   <img src = "https://img.shields.io/badge/MACHINE%20LEARNING-teal?style=for-the-badge" />
 </div>
 -->
-<br>
+<div>
+  <div>Proficient in both frontend and backend development.</div>
+  <div>Expertise in Next.js and other React frameworks for frontend development.</div>
+  <div>Skilled in both NoSQL (MongoDB) and SQL (PostgreSQL) databases.</div>
+  <div>Currently learning React Native for mobile app development.</div>
+</div>
 
-# ![Static Badge](https://img.shields.io/badge/currently%20working%20on%20'textrade'-purple?style=for-the-badge)[ ↗](https://textrade.irfan.live/)
+<!--# ![Static Badge](https://img.shields.io/badge/currently%20working%20on%20'textrade'-purple?style=for-the-badge)[ ↗](https://textrade.irfan.live/)-->
 
 <br>
 <div align="center">
