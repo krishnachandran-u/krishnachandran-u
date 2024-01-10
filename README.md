@@ -1,6 +1,5 @@
 ![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 <br>
-<img src = "https://krishnachandran-u.github.io/krishnachandran-u/assets/images/details.svg" alt = "details.svg">
 <!--
 <div align = "center">
   <img src = "https://img.shields.io/badge/SOFTWARE%20DEVELOPER-teal?style=for-the-badge"/>
