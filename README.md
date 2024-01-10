@@ -1,4 +1,4 @@
-![profile_7](https://cdn.jsdelivr.net/gh/krishnachandran-u/krishnachandran-u@main/assets/images/name.png)
+![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 <br>
 <!--
 <div align = "center">
