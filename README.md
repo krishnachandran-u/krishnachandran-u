@@ -1,4 +1,4 @@
-![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
+!profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 
 - Proficient in both frontend and backend development.
 - Expertise in Next.js and other React frameworks for frontend development.
@@ -28,4 +28,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnachandran-u&show_icons=true&locale=en" alt="krishnachandran-u" />
+</div>
+
+<div>
+    hello
 </div>
