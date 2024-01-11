@@ -1,4 +1,4 @@
-!rofile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
+![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 
 - Proficient in both frontend and backend development.
 - Expertise in Next.js and other React frameworks for frontend development.
