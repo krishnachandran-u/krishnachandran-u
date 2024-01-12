@@ -76,7 +76,7 @@
       <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cplusplus logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
     </td>
   </tr>
 </table>
