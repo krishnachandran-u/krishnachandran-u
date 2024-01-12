@@ -68,7 +68,7 @@
       <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
     </td>
     <td>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     </td>
   </tr>
 </table>
