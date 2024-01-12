@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://krishnachandran.vercel.app">Checkout my website!⤴</a></h1>
+<h2 align="center"><a href="https://krishnachandran.vercel.app">Checkout my website!⤴</a></h2>
 
 ![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 
@@ -27,13 +27,13 @@
   </tr>
 </table>
 
-## Let's Talk!
+### Let's Talk!
 
 <table align = "center" style = "width: 100%"> 
   <tr>
     <td>
       <a href = "https://codeforces.com/profile/krishnachandran">
-        <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo"/>
+        <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo"/>
       </a>
     </td>
     <td>
