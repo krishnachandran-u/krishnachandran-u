@@ -30,7 +30,7 @@
 ### Let's Talk !
 
 <table align = "center" style = "width: 100%"> 
-  <tr>
+  <tr style = "width: 100%">
     <td>
       <a href = "https://codeforces.com/profile/krishnachandran">
         <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo"/>
