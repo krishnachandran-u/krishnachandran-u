@@ -78,5 +78,11 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
     </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+    </td>
   </tr>
 </table>
