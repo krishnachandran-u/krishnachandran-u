@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://krishnachandran.vercel.app">Checkout my website!⤴</a></h2>
+<h2 align="center"><a href="https://krishnachandran.vercel.app">Checkout my website! ⤴</a></h2>
 
 ![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 
@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-### Let's Talk!
+### Let's Talk !
 
 <table align = "center" style = "width: 100%"> 
   <tr>
