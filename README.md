@@ -60,10 +60,10 @@
   <tr>
     <td>
       <img width="50" height="50" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/>
-    <td>
+    </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"  />
-    <td>
+    </td>
     <td>
       <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
     </td>
