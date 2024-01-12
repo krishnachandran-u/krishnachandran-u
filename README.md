@@ -57,7 +57,7 @@
 ### Toolkit
 
 <table align = "center" style = "width: 100%">
-  <tr>
+  <tr align = "center">
     <td>
       <img width="50" height="50" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/>
     </td>
@@ -71,7 +71,7 @@
       <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     </td>
   </tr>
-  <tr>
+  <tr align = "center">
     <td>
       <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
     </td>
