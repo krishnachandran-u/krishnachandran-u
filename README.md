@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-<h3 align = "center" >Toolkit</h3>
+<h3 align = "center" >My toolbox</h3>
 
 <table align = "center" style = "width: 100%">
   <tr align = "center">
@@ -69,6 +69,20 @@
     </td>
     <td>
       <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+    </td>
+  </tr>
+  <tr align = "center">
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-framer-the-only-tool-you-need-to-create-interactive-designs-for-any-platform-logo-color-tal-revivo.png" alt="external-framer-the-only-tool-you-need-to-create-interactive-designs-for-any-platform-logo-color-tal-revivo"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
     </td>
   </tr>
   <tr align = "center">
