@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-### Let's Talk !
+<h3 align = "center" >Let's Talk !</h3>
 
 <table align = "center" style = "width: 100%"> 
   <tr style = "width: 100%">
