@@ -18,15 +18,9 @@
 # ![Static Badge](https://img.shields.io/badge/currently%20working%20on%20'textrade'-purple?style=for-the-badge)[ ↗](https://textrade.irfan.live/)
 -->
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u" alt="krishnachandran-u" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnachandran-u&show_icons=true&locale=en" alt="krishnachandran-u" />
-</div>
-
+<table align = "center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=krishnachandran-u&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
