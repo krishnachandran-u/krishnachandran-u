@@ -70,6 +70,8 @@
     <td>
       <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
     </td>
