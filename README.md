@@ -70,5 +70,11 @@
     <td>
       <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
     </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cplusplus logo"  />
+    </td>
   </tr>
 </table>
