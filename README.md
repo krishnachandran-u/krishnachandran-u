@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://krishnachandran.vercel.app">
-    <h1 style="font-size: 2em;" align = "center">Checkout my website! ↗</h1>
-  </a>
-</p>
+<a href="https://krishnachandran.vercel.app">
+  <h1 style="font-size: 2em;" align = "center">Checkout my website! ↗</h1>
+</a>
 
 ![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name.png)
 
