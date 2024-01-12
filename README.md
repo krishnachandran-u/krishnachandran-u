@@ -42,12 +42,12 @@
       </a>
     </td>
     <td>
-      <a href = "">
+      <a href = "https://twitter.com/casstrops">
         <img width="50" height="50" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/>
       </a>
     </td>
     <td>
-      <a>
+      <a href = "https://www.instagram.com/krishnachandran_u/?hl=en">
         <img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
       </a>
     </td>
