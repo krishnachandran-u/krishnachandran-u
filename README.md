@@ -85,4 +85,18 @@
       <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
     </td>
   </tr>
+  <tr align = "center" >
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/prisma-orm.png" alt="prisma-orm"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
+    </td>
+    <td>
+      <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    </td>
+    <td>
+      <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+    </td>
+  </tr>
 </table>
