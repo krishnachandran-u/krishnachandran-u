@@ -26,3 +26,30 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=krishnachandran-u&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
+
+## Let's Talk!
+
+<table align = "center" style = "width: 100%"> 
+  <tr>
+    <td>
+      <a href = "https://codeforces.com/profile/krishnachandran">
+        <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo"/>
+      </a>
+    </td>
+    <td>
+      <a href = "https://www.linkedin.com/in/krishnachandran-u-a79012273/">
+        <img width="50" height="50" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+      </a>
+    </td>
+    <td>
+      <a href = "">
+        <img width="50" height="50" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/>
+      </a>
+    </td>
+    <td>
+      <a>
+        <img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+      </a>
+    </td>
+  </tr>
+</table>
