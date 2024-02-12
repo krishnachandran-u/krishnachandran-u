@@ -1,6 +1,6 @@
 <h2 align="center"><a href="https://krishnachandran.vercel.app">Checkout my website! ⤴</a></h2>
 
-![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name2.png)
+![profile_7](https://krishnachandran-u.github.io/krishnachandran-u/assets/images/name3.png)
 
 - Proficient in both frontend and backend development.
 - Expertise in Next.js and other React frameworks for frontend development.
