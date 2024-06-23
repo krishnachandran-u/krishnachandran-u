@@ -17,7 +17,7 @@ __languages:__ 𖥔
 c | c++ | typescript | python | go | javascript | java | lua | bash | [vimscript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)
 
 __experience:__ ⚡︎  
-full stack engineer intern @ [oronium](https://www.oronium.com/) : Dec 23 - Mar 24 (3 months)
+full stack engineer intern @ [oronium](https://www.oronium.com/) : dec 23 - mar 24 (3 months)
 
 __competitive programming:__ ⟢  
 pupil (1241) @ [codeforces](https://codeforces.com/profile/krishnachandran)
