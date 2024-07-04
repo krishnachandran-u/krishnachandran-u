@@ -1,5 +1,5 @@
 for work? do reach, __[email](mailto:krishnachandran.u@outlook.com)__ (づ｡◕‿‿◕｡)づ   
-check out my website, __[portfolio](krishnachandran.vercel.app)__ (⸝⸝⸝>﹏<⸝⸝⸝)
+check out my website, __[portfolio](https://krishnachandran.vercel.app/)__ (⸝⸝⸝>﹏<⸝⸝⸝)
 
 __my github stats:__ ◝(ᵔᵕᵔ)◜
 <table align = "center">
