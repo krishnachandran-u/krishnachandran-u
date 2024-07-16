@@ -13,7 +13,7 @@ __frontend:__
 [next.js](https://nextjs.org/) | [react_native](https://reactnative.dev/) | [gsap](https://gsap.com/) | [framer](https://www.framer.com/motion/)  
 __backend:__  
 sql | nosql | flask | firebase | mongodb | supabase | [gin](https://github.com/gin-gonic/gin) | websockets  
-__ai:__  
+__machine_learning:__  
 [tensorfow](https://en.wikipedia.org/wiki/TensorFlow) | [langchain](https://www.langchain.com/) | [llms](https://en.wikipedia.org/wiki/Large_language_model)  
 __languages:__  
 c | c++ | typescript | python | go | javascript | java | lua | bash | [vimscript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)  
