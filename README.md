@@ -1,7 +1,8 @@
 for work? do reach, __[email](mailto:krishnachandran.u@outlook.com)__ (づ｡◕‿‿◕｡)づ   
 check out my website, __[portfolio](https://krishnachandran.vercel.app/)__ (⸝⸝⸝>﹏<⸝⸝⸝)
 
-__my github stats:__ ◝(ᵔᵕᵔ)◜
+__my github stats:__ ◝(ᵔᵕᵔ)◜  
+_contributions primarily in private organizations; public profile reflects limited activity._
 <table align = "center">
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u"/></td>
