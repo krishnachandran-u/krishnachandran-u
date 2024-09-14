@@ -2,7 +2,7 @@ for work? do reach, __[email](mailto:krishnachandran.u@outlook.com)__ (づ｡◕
 check out my website, __[portfolio](https://krishnachandran.vercel.app/)__ (⸝⸝⸝>﹏<⸝⸝⸝)
 
 __my github stats:__ ◝(ᵔᵕᵔ)◜  
-_contributions primarily in private organizations; public profile reflects limited activity._
+_around 2000 contributions but primarily in private organizations; public profile reflects limited activity._
 <table align = "center">
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnachandran-u&theme=ambient_gradient"/></td>
@@ -19,11 +19,12 @@ __machine_learning:__
 __languages:__  
 c | c++ | typescript | python | go | javascript | java | lua | bash | [vimscript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)  
 __other:__  
-[nvim](https://neovim.io/) | docker
+[nvim](https://neovim.io/) | docker | sentry
 
 
 __experience:__  
-full stack engineer intern @ [oronium](https://www.oronium.com/) : dec 23 - mar 24 (3 months)
+frontend engineer intern @ [oronium](https://www.oronium.com/) : dec 23 - mar 24 (3 months)  
+ai x backend developer @ undisclosed ai-finance startup : jul 4 - present (2 months)
 
 __competitive programming:__  
 pupil (1241) @ [codeforces](https://codeforces.com/profile/krishnachandran)
