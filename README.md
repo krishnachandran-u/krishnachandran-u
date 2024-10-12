@@ -17,7 +17,7 @@ sql | nosql | flask | firebase | mongodb | supabase | [gin](https://github.com/g
 __machine_learning:__  
 [tensorfow](https://en.wikipedia.org/wiki/TensorFlow) | [langchain](https://www.langchain.com/) | [llms](https://en.wikipedia.org/wiki/Large_language_model)  
 __languages:__  
-c | c++ | typescript | python | go | javascript | java | lua | bash | [vimscript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)  
+8086 asm | c | c++ | typescript | python | go | javascript | java | lua | bash | [vimscript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)  
 __other:__  
 [nvim](https://neovim.io/) | docker | sentry
 
