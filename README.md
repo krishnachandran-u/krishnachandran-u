@@ -24,7 +24,7 @@ __other:__
 
 __experience:__  
 𖹭 frontend engineer intern @ [oronium](https://www.oronium.com/) : dec 23 - mar 24 (3 months)  
-𖹭 ai x backend developer @ undisclosed ai-finance startup : jul 4 - present (2 months)
+𖹭 ai x backend developer @ stoqs : jul 4 - present (2 months)
 
 __competitive programming:__  
 pupil (1241) @ [codeforces](https://codeforces.com/profile/krishnachandran)
